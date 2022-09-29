@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 using System.Threading.Channels;
 
-//Story Line
+//Start
 
 Console.WriteLine("Your name is Indigo and you have a house elf called Corbey helping you. You work in the Ministry of Magic as an Auror (dark wizard catcher).");
 Thread.Sleep(1500);
@@ -23,11 +23,24 @@ else if (yn == "n"|| yn == "N")
     Environment.Exit(0);
 }
 
+//Story
+
+Console.WriteLine("");
+Thread.Sleep(1500);
+Console.WriteLine("He is hiding in one of three places; where did you want to look first?");
+Thread.Sleep(1500);
+Console.WriteLine("(1) Forbidden forest, (2) London - near the Ministry of Magic, (3) Falmouth - his birth home");
+string pl1 = Console.ReadLine();
+if (pl1 == "1")
+{
+    Console.WriteLine("You look in the forbidden forest");
+}
+
 
 
 //Final Battle - Valdis
 
-int Vhealth = 120;
+int Vhealth = 150;
 int Ihealth = 100;
 Random Def = new Random();
 Random Att = new Random();
