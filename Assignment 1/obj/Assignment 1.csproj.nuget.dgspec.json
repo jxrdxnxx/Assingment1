@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jxmlx\\source\\repos\\Assingment1\\Assignment 1\\Assignment 1.csproj": {}
+    "C:\\Users\\jxmlx\\Source\\Repos\\Assingment1\\Assignment 1\\Assignment 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jxmlx\\source\\repos\\Assingment1\\Assignment 1\\Assignment 1.csproj": {
+    "C:\\Users\\jxmlx\\Source\\Repos\\Assingment1\\Assignment 1\\Assignment 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jxmlx\\source\\repos\\Assingment1\\Assignment 1\\Assignment 1.csproj",
+        "projectUniqueName": "C:\\Users\\jxmlx\\Source\\Repos\\Assingment1\\Assignment 1\\Assignment 1.csproj",
         "projectName": "Assignment 1",
-        "projectPath": "C:\\Users\\jxmlx\\source\\repos\\Assingment1\\Assignment 1\\Assignment 1.csproj",
+        "projectPath": "C:\\Users\\jxmlx\\Source\\Repos\\Assingment1\\Assignment 1\\Assignment 1.csproj",
         "packagesPath": "C:\\Users\\jxmlx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jxmlx\\source\\repos\\Assingment1\\Assignment 1\\obj\\",
+        "outputPath": "C:\\Users\\jxmlx\\Source\\Repos\\Assingment1\\Assignment 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jxmlx\\AppData\\Roaming\\NuGet\\NuGet.Config",
